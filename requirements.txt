@@ -8,4 +8,4 @@ scikit-learn
 sweetviz
 pydeck
 requests
-st_aggrid
+streamlit-aggrid
